@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "425317632628",
+    "project_id": "plants-app-aad32",
+    "storage_bucket": "plants-app-aad32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425317632628:android:c80e3c74ec2559de1e1f21",
+        "android_client_info": {
+          "package_name": "com.superprof.tumbuhan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425317632628-12qn531as5tqsi4ul3sd896vhqdm6dk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjAsBMEs0ckq6Q8wxJSIRqMxyPmLZgrIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425317632628-12qn531as5tqsi4ul3sd896vhqdm6dk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
